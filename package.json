@@ -19,6 +19,9 @@
   "dependencies": {
     "express": "^4.13.4",
     "fast-csv": "^1.0.0",
-    "node-mysql": "^0.4.2"
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
   }
 }
