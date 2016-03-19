@@ -1,0 +1,24 @@
+{
+  "name": "hacksheffield",
+  "version": "1.0.0",
+  "description": "Hack Sheffield",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seckwei/hacksheffield.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seckwei/hacksheffield/issues"
+  },
+  "homepage": "https://github.com/seckwei/hacksheffield#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fast-csv": "^1.0.0",
+    "node-mysql": "^0.4.2"
+  }
+}
