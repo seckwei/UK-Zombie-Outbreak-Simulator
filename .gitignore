@@ -1,3 +1,7 @@
 node_modules/
 *.csv
 commuteParse.js
+server/boundary.js
+server/convex_hull.js
+server/fileLogger.js
+server/hull.js
