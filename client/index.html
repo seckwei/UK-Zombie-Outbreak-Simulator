@@ -5,13 +5,17 @@
         html, body { height: 100%; margin: 0; padding: 0; }
         #map { height: 100%; }
     </style>
+    <script   src="https://code.jquery.com/jquery-1.12.2.min.js"   integrity="sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk="   crossorigin="anonymous"></script>
+    <script type="text/javascript" src="exampleData.js"></script>
 </head>
 <body>
     <div id="map"></div>
-    <script type="javascript" src="outbreak.js"></script>
+    <!-- <script type="javascript" src="outbreak.js"></script> -->
     <script>
+
       var map, circles = [];
       function initMap() {
+
         map = new google.maps.Map(document.getElementById('map'), {
             mapTypeId: google.maps.MapTypeId.TERRAIN,
             center: {
@@ -30,26 +34,20 @@
         sliderControlDiv.style.width = "80%";
         var sliderControl = new SliderControl(sliderControlDiv, map);
         map.controls[google.maps.ControlPosition.BOTTOM_CENTER].push(sliderControlDiv);
-
-        drawCircles(map);
       }
 
-      function drawCircles(map) {
-          //for loop
-          drawCircle(map);
-      }
-
-      function drawCircle(map) {
-          var cityCircle = new google.maps.Circle({
-              strokeColor: '#FF0000',
-              strokeOpacity: 0.8,
-              strokeWeight: 2,
-              fillColor: '#FF0000',
-              fillOpacity: 0.35,
-              map: map,
-              center: { lat : 51.513147, lng : -0.090539 },
-              radius: 200
-            });
+      function drawCircle(map, district) {
+            circles.push(new google.maps.Circle({
+                  strokeColor: '#FF0000',
+                  strokeOpacity: 0.8,
+                  strokeWeight: 2,
+                  fillColor: '#FF0000',
+                  fillOpacity: 0.35,
+                  map: map,
+                  center: { lat : parseFloat(district.lat), lng : parseFloat(district.lng) },
+                  radius: Math.sqrt(district.infected) * 500
+                })
+            );
       }
 
       function CenterControl(controlDiv, map) {
@@ -99,6 +97,15 @@
           controlUI.id = 'slider';
           controlUI.style.width = "100%";
           controlUI.style.cursor = 'pointer';
+          controlUI.addEventListener('change', function(){
+              circles.forEach(function(circle){
+                  circle.setMap(null);
+              });
+              circles = [];
+              for(var key in exampleData[this.value]){
+                  drawCircle(map, exampleData[this.value][key]);
+              };
+          });
           bg.appendChild(controlUI);
       }
     </script>
