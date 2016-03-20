@@ -299,15 +299,6 @@ var exampleData = [
             "lat": "51.109933000",
             "population": "71905",
             "infected": "32"
-        },
-        "Oldham": {
-            "week": "15",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -427,15 +418,6 @@ var exampleData = [
             "lat": "51.062768000",
             "population": "86859",
             "infected": "51"
-        },
-        "Oldham": {
-            "week": "16",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -582,15 +564,6 @@ var exampleData = [
             "lat": "50.825542000",
             "population": "185131",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "17",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -764,15 +737,6 @@ var exampleData = [
             "lat": "50.838657000",
             "population": "75216",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "18",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -973,15 +937,6 @@ var exampleData = [
             "lat": "51.375134000",
             "population": "238077",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "19",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -1209,15 +1164,6 @@ var exampleData = [
             "lat": "53.382605000",
             "population": "82834",
             "infected": "51"
-        },
-        "Oldham": {
-            "week": "20",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -1472,15 +1418,6 @@ var exampleData = [
             "lat": "51.359376000",
             "population": "129176",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "21",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -1762,15 +1699,6 @@ var exampleData = [
             "lat": "51.545296000",
             "population": "135661",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "22",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -2079,15 +2007,6 @@ var exampleData = [
             "lat": "51.359376000",
             "population": "129176",
             "infected": "202"
-        },
-        "Oldham": {
-            "week": "23",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -2423,15 +2342,6 @@ var exampleData = [
             "lat": "52.473762000",
             "population": "680059",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "24",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -2794,15 +2704,6 @@ var exampleData = [
             "lat": "49.945027000",
             "population": "1615",
             "infected": "319"
-        },
-        "Oldham": {
-            "week": "25",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -3192,15 +3093,6 @@ var exampleData = [
             "lat": "51.545296000",
             "population": "135661",
             "infected": "319"
-        },
-        "Oldham": {
-            "week": "26",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -3617,15 +3509,6 @@ var exampleData = [
             "lat": "50.854687000",
             "population": "83620",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "27",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -4069,15 +3952,6 @@ var exampleData = [
             "lat": "50.871161000",
             "population": "64121",
             "infected": "1985"
-        },
-        "Oldham": {
-            "week": "28",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -4548,15 +4422,6 @@ var exampleData = [
             "lat": "51.250282000",
             "population": "90991",
             "infected": "1985"
-        },
-        "Oldham": {
-            "week": "29",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -5054,15 +4919,6 @@ var exampleData = [
             "lat": "51.520997000",
             "population": "224780",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "30",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -5587,15 +5443,6 @@ var exampleData = [
             "lat": "51.407635000",
             "population": "109058",
             "infected": "202"
-        },
-        "Oldham": {
-            "week": "31",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -6147,15 +5994,6 @@ var exampleData = [
             "lat": "51.467701000",
             "population": "157406",
             "infected": "319"
-        },
-        "Oldham": {
-            "week": "32",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -6734,15 +6572,6 @@ var exampleData = [
             "lat": "50.854687000",
             "population": "83620",
             "infected": "81"
-        },
-        "Oldham": {
-            "week": "33",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -7348,15 +7177,6 @@ var exampleData = [
             "lat": "51.524419000",
             "population": "170268",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "34",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -7989,15 +7809,6 @@ var exampleData = [
             "lat": "51.440519000",
             "population": "62095",
             "infected": "32"
-        },
-        "Oldham": {
-            "week": "35",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -8657,16 +8468,6 @@ var exampleData = [
             "lat": "51.413722000",
             "population": "79771",
             "infected": "20"
-        },
-        
-        "Oldham": {
-            "week": "36",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -9353,15 +9154,6 @@ var exampleData = [
             "lat": "51.281664000",
             "population": "61655",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "37",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -10075,15 +9867,6 @@ var exampleData = [
             "lat": "51.494884000",
             "population": "129792",
             "infected": "319"
-        },
-        "Oldham": {
-            "week": "38",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -10824,15 +10607,6 @@ var exampleData = [
             "lat": "51.545570000",
             "population": "155165",
             "infected": "1257"
-        },
-        "Oldham": {
-            "week": "39",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -11600,15 +11374,6 @@ var exampleData = [
             "lat": "51.559984000",
             "population": "131072",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "40",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -12403,15 +12168,6 @@ var exampleData = [
             "lat": "53.989758000",
             "population": "109225",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "41",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -13233,15 +12989,6 @@ var exampleData = [
             "lat": "51.357228000",
             "population": "86527",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "42",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -14090,15 +13837,6 @@ var exampleData = [
             "lat": "52.083279000",
             "population": "51498",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "43",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -14974,15 +14712,6 @@ var exampleData = [
             "lat": "52.626725000",
             "population": "89832",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "44",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -15885,15 +15614,6 @@ var exampleData = [
             "lat": "51.440519000",
             "population": "62095",
             "infected": "32"
-        },
-        "Oldham": {
-            "week": "45",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -16823,15 +16543,6 @@ var exampleData = [
             "lat": "51.413722000",
             "population": "79771",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "46",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -17788,15 +17499,6 @@ var exampleData = [
             "lat": "50.844970000",
             "population": "97053",
             "infected": "1985"
-        },
-        "Oldham": {
-            "week": "47",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -18780,15 +18482,6 @@ var exampleData = [
             "lat": "51.215304000",
             "population": "57527",
             "infected": "796"
-        },
-        "Oldham": {
-            "week": "48",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -19799,15 +19492,6 @@ var exampleData = [
             "lat": "51.588802000",
             "population": "162700",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "49",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     },
     {
@@ -20845,15 +20529,6 @@ var exampleData = [
             "lat": "51.142263000",
             "population": "73012",
             "infected": "20"
-        },
-        "Oldham": {
-            "week": "50",
-            "districtID": "37",
-            "districtName": "Oldham",
-            "lng": "-2.110377000",
-            "lat": "53.541678000",
-            "population": "152602",
-            "infected": "75918"
         }
     }
 ];
