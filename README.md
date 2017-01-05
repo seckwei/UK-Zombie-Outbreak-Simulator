@@ -35,3 +35,6 @@ How we built it
 - Map routes to various desired resources
 - Weather forecast
 - Other survival features (e.g. (poisonous plants / berry identifier)
+
+
+Taken from our [DevPost](https://devpost.com/software/uk-epidemic-simulator) page.
